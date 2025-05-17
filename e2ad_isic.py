@@ -10,11 +10,11 @@ import torch.nn.parallel
 import torch.backends.cudnn as cudnn
 from utils import get_logger, count_parameters, over_write_args_from_file
 from train_utils import TBLog, get_optimizer_v2, get_multistep_schedule_with_warmup
-from methods.edc1 import EDC_MS, EDC
+from methods.edc1 import EDC_MS
 
 from datasets.dataset import AD_Dataset
 from datasets.data_utils import get_data_loader
-from models.edc import E2AD, R50_R50
+from models.edc import E2AD
 
 import warnings
 
