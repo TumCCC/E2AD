@@ -150,6 +150,6 @@ Guo's other works are also highly intriguing and open-sourced. We strongly recom
 ### Recommendation
 Recommended repo: https://github.com/M-3LAB/awesome-industrial-anomaly-detection, which collected awesome AD papers and is convient for me to follow new ideas in this field.
 
-Recommended research direction: [UniNet-CVPR2025](https://github.com/pangdatangtt/UniNet) has achieved 100% image-level AUC on APTOS, OCT2017 and ISIC2018 datasets in single-class AD setting. So, my future research direction in medical AD would be AD on small scale dataset, or few-shot and zero-shot.
+Also, [UniNet-CVPR2025](https://github.com/pangdatangtt/UniNet) has achieved 100% image-level AUC on APTOS, OCT2017 and ISIC2018 datasets in single-class AD setting. So, the future research direction in medical AD would be the research on small scale datasets, or few-shot and zero-shot settings.
 
 
