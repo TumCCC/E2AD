@@ -124,22 +124,22 @@ Run experiments with default arguments.
 
 APTOS
 ```
-python e2ad_aptos.py --train_times 5 --gpu 0 --model_name E2AD --save_name E2AD_APTOS --data_dir your/path/to/apotos/
+python e2ad_aptos.py --train_times 5 --gpu 0 --model_name E2AD --data_dir your/path/to/apotos/
 ```
 
 OCT2017
 ```
-python e2ad_oct.py  --train_times 5 --gpu 0 --model_name E2AD --save_name E2AD_OCT --data_dir your/path/to/oct/
+python e2ad_oct.py  --train_times 5 --gpu 0 --model_name E2AD --data_dir your/path/to/oct/
 ```
 
 Br35H
 ```
-python e2ad_br35h.py --train_times 5 --gpu 0 --model_name E2AD --save_name E2AD_BR35H --data_dir your/path/to/br35h/
+python e2ad_br35h.py --train_times 5 --gpu 0 --model_name E2AD --data_dir your/path/to/br35h/
 ```
 
 ISIC2018
 ```
-python e2ad_isic.py --train_times 5 --gpu 0 --model_name E2AD --save_name E2AD_ISIC --data_dir your/path/to/i2ic/
+python e2ad_isic.py --train_times 5 --gpu 0 --model_name E2AD --data_dir your/path/to/i2ic/
 ```
 
 ### Acknowledgement
